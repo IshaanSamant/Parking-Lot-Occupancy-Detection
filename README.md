@@ -1,2 +1,2 @@
 # Parking-Lot-Occupancy-Detection
-Created a system to count the number of free parking lots using only images.
+An advanced system that can determine the number of occupied parking spots in a parking lot, only using camera footage.
